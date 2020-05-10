@@ -1,0 +1,19 @@
+{
+  "name": "icarusbot",
+  "version": "1.0.0",
+  "description": "rsps discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "g"
+  },
+  "repository": {
+    "type": "git",
+    "url": "f"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
